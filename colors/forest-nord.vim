@@ -271,7 +271,7 @@ endif
 "+----------------------+
 call s:hi("Boolean", s:nord9_gui, "", s:nord9_term, "", "", "")
 call s:hi("Character", s:nord14_gui, "", s:nord14_term, "", "", "")
-call s:hi("Comment", s:nord10_gui, "", s:nord15_term, "", s:italicize_comments, "")
+call s:hi("Comment", s:nord3_gui_bright, "", s:nord4_term, "", s:italicize_comments, "")
 call s:hi("Conditional", s:nord9_gui, "", s:nord9_term, "", "", "")
 call s:hi("Constant", s:nord4_gui, "", "NONE", "", "", "")
 call s:hi("Define", s:nord9_gui, "", s:nord9_term, "", "", "")
